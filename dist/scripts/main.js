@@ -585,7 +585,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"3cYfC":[function(require,module,exports,__globalThis) {
-console.log('ola mundo');
+AOS.init();
 
 },{}]},["3PCYQ","3cYfC"], "3cYfC", "parcelRequire94c2")
 
